@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+
+p{
+    padding: 0 20px 0 20px;
+}
+
+body{
+    background-color: lightyellow;
+}
+
+#border{
+    border-style: solid;
+    border-color: #000;
+    border-width: 2px;
+}
